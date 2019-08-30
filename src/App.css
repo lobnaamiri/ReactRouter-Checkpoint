@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+    background-color: beige;
+    text-align: center;
+    width: 50%;
+    margin-left: 24%;
+    height: 282px;
+    margin-top: 5%;
 }
 
 .App-logo {
@@ -30,4 +35,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+.nav{
+  background-color: aqua;
+  height: 101px;
+}
+.affich{
+  background-color: bisque;
+  height: 17%;
 }
